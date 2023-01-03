@@ -16,7 +16,7 @@ prerequisite Before Installion
 
 Installaion Guide 
 
-1. https://github.com/vinitbetkar/Arlong.git
+1. git clone https://github.com/vinitbetkar/Arlong.git
 2. cd Arlong
 3. chmod +x *
 4. sudo ./Arlong target.com
