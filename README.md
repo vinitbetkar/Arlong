@@ -2,7 +2,7 @@
 (name Inspired From Onepiece Character Arlong - the captain of the all fish-man crew)
 
 
-Arlong is a fastest And deepest Recon Tool In which It Fetch Subdomain and Waybackurls
+Arlong is a fastest And deepest Recon Tool In which It'll Fetch Subdomain and Waybackurls
 ![wp7668978-arlong-wallpapers](https://user-images.githubusercontent.com/114536926/210381719-c0c6d0e6-7cd9-450a-87a0-4a94526126da.jpg)
 So lets Deep Dive Into The Recon With Arlong
 
