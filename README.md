@@ -6,7 +6,7 @@ Arlong is a fastest And deepest Recon Tool In which It'll Fetch Subdomain and Wa
 ![wp7668978-arlong-wallpapers](https://user-images.githubusercontent.com/114536926/210381719-c0c6d0e6-7cd9-450a-87a0-4a94526126da.jpg)
 So lets Deep Dive Into The Recon With Arlong
 
-prerequisite Before Installion
+prerequisite Before installation
 1. Golang
 2. subfinder 
 3. sort 
@@ -25,4 +25,5 @@ Installaion Guide
 https://user-images.githubusercontent.com/114536926/210384923-a75a47b1-2d78-471a-b133-d05eede6aa0e.mp4
 
 The OnePiece is Real !
+
 Thanks!
