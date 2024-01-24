@@ -19,7 +19,7 @@ Installaion Guide
 1. git clone https://github.com/vinitbetkar/Arlong.git
 2. cd Arlong
 3. chmod +x *
-4. sudo ./Arlong target.com
+4. sudo ./Arlong.sh target.com
 
 
 https://user-images.githubusercontent.com/114536926/210384923-a75a47b1-2d78-471a-b133-d05eede6aa0e.mp4
