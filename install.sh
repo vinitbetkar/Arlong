@@ -62,6 +62,7 @@ cp $GOPATH_BIN/httpx /usr/local/bin/
 if [ -f "Arlong.sh" ]; then
     chmod +x Arlong.sh
     mv Arlong.sh arlong
+    chmod +x arlong
     cp arlong /usr/local/bin/
     echo -e "${GREEN}[✔] Arlong script is now global!${WHITE}"
 else
