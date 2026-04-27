@@ -59,8 +59,9 @@ cp $GOPATH_BIN/waybackurls /usr/local/bin/
 cp $GOPATH_BIN/httpx /usr/local/bin/
 
 # 5. Finalize Arlong Script
-if [ -f "arlong" ]; then
-    chmod +x arlong
+if [ -f "Arlong.sh" ]; then
+    chmod +x Arlong.sh
+    mv Arlong.sh arlong
     cp arlong /usr/local/bin/
     echo -e "${GREEN}[✔] Arlong script is now global!${WHITE}"
 else
